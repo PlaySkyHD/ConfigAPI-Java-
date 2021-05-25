@@ -8,3 +8,8 @@ Requirements:
 
 Download:
 - https://github.com/PlaySkyHD/ConfigAPI-Java-/blob/master/ConfigAPI.jar?raw=true
+
+Example:
+[Code]
+Example
+[/CODE]
